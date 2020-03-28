@@ -1,0 +1,17 @@
+{
+  "definitions": {
+    "Organization": {
+      "properties": {
+        "details": {
+          "properties": {
+            "CodigoEntidad": {
+              "type": "string",
+              "description": "Código de la entidad en la plataforma tecnológica",
+              "title": "Código de la entidad"
+            }
+          }
+        }
+      }
+    }
+  }
+}
